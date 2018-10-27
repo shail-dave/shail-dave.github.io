@@ -1,7 +1,7 @@
 Hello! <img align="left" src="https://webapp4.asu.edu/photo-ws/directory_photo/sjdave?blankImage=false&size=medium" hspace="15"> I am a graduate student in [Computer Engineering](https://engineering.asu.edu/cen/) at [Arizona State University](http://www.asu.edu/) beginning Spring 2017. Prior joining the doctoral program, I earned my master's at ASU in Computer Engineering in 2016. My [research](https://sites.google.com/view/shail/professional-ex#Research) at [Compiler Micro-architecture Lab](http://aviral.lab.asu.edu/) is advised by [Prof. Aviral Shrivastava](http://aviral.lab.asu.edu/) and it targets  developing compiler support and (micro)architecture design for [Coarse-Grained Reconfigurable Arrays](http://aviral.lab.asu.edu/?page_id=1533) (CGRAs). Moreover, my research interests include Compiler Design, Embedded Systems, and Programmable Accelerators for Deep Learning.
 
 
-Additional Webpage: https://sites.google.com/view/shail <br/>
+###Additional Webpage: https://sites.google.com/view/shail <br/>
 (Maintained More Frequently)
 
 
@@ -20,6 +20,6 @@ Additional Webpage: https://sites.google.com/view/shail <br/>
   in *Proceedings of the 21st International Conference on Design Automation and Test in Europe (DATE)*, 2018 
 
 
-## Contact:
+## Contact
 
 You can reach me at shail dot dave AT asu.edu
