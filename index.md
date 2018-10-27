@@ -7,15 +7,15 @@ Additional Webpage: <sites.google.com/view/shail> \
 
 ## Publications
 
-+ [RAMP: Resource-Aware Mapping for CGRAs](paper/RAMPDAC2018.pdf), \
++ [RAMP: Resource-Aware Mapping for CGRAs](papers/RAMPDAC2018.pdf), \
   **Shail Dave**, Mahesh Balasubramanian, Aviral Shrivastava, \
   in *Proceedings of the 55th Annual Design Automation Conference (DAC)*, 2018
 
-+ [URECA: A Compiler Solution to Manage Unified Register File for CGRAs](paper/DATE18-URECA.pdf), \
++ [URECA: A Compiler Solution to Manage Unified Register File for CGRAs](papers/DATE18-URECA.pdf), \
   **Shail Dave**, Mahesh Balasubramanian, Aviral Shrivastava, \
   in *Proceedings of the 21st International Conference on Design Automation and Test in Europe (DATE)*, 2018
   
-+ [LASER: A Hardware/Software Approach to Accelerate Complicated Loops on CGRAs](paper/DATE18-laser.pdf), \
++ [LASER: A Hardware/Software Approach to Accelerate Complicated Loops on CGRAs](papers/DATE18-laser.pdf), \
   Mahesh Balasubramanian,  **Shail Dave**, Aviral Shrivastava, Reiley Jeyapaul, \
   in *Proceedings of the 21st International Conference on Design Automation and Test in Europe (DATE)*, 2018 
 
