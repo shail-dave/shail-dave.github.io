@@ -15,7 +15,7 @@ Additional Webpage: https://sites.google.com/view/shail \
   **Shail Dave**, Mahesh Balasubramanian, Aviral Shrivastava, \
   in *Proceedings of the 21st International Conference on Design Automation and Test in Europe (DATE)*, 2018
   
-+ [LASER: A Hardware/Software Approach to Accelerate Complicated Loops on CGRAs](papers/DATE18-laser.pdf), \
++ [LASER: A Hardware/Software Approach to Accelerate Complicated Loops on CGRAs](papers/DATE2018-laser.pdf), \
   Mahesh Balasubramanian,  **Shail Dave**, Aviral Shrivastava, Reiley Jeyapaul, \
   in *Proceedings of the 21st International Conference on Design Automation and Test in Europe (DATE)*, 2018 
 
