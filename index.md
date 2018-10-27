@@ -1,37 +1,4 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/shail-dave/shail-dave.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/shail-dave/shail-dave.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Hello! Welcome to my webpage. I am a graduate student in [Computer Engineering](https://engineering.asu.edu/cen/) at [School of Computing, Informatics, and Decisions Systems Engineering](https://cidse.engineering.asu.edu) (CIDSE), [Arizona State University](http://www.asu.edu/) (ASU) beginning Spring 2017. Prior joining the doctoral program, I earned my master's at ASU in Computer Engineering in 2016. My [research](https://sites.google.com/view/shail/professional-ex#Research) at [Compiler Micro-architecture Lab](http://aviral.lab.asu.edu/) (CML)@ASU is advised by [Prof. Aviral Shrivastava](http://aviral.lab.asu.edu/) and it targets  developing compiler support and (micro)architecture design for [Coarse-Grained Reconfigurable Arrays](http://aviral.lab.asu.edu/?page_id=1533) (CGRAs).  CGRA is an energy-efficient accelerator that can speed-up even non-vectorizable performance-critical loops. Moreover, my research interests include:
+* Programmable Accelerators
+* Compiler Design
+* Deep Learning
