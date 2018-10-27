@@ -11,7 +11,7 @@ Additional Webpage: https://sites.google.com/view/shail \
   **Shail Dave**, Mahesh Balasubramanian, Aviral Shrivastava, \
   in *Proceedings of the 55th Annual Design Automation Conference (DAC)*, 2018
 
-+ [URECA: A Compiler Solution to Manage Unified Register File for CGRAs](papers/DATE18-URECA.pdf), \
++ [URECA: A Compiler Solution to Manage Unified Register File for CGRAs](papers/URECA.pdf), \
   **Shail Dave**, Mahesh Balasubramanian, Aviral Shrivastava, \
   in *Proceedings of the 21st International Conference on Design Automation and Test in Europe (DATE)*, 2018
   
