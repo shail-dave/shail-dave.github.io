@@ -24,17 +24,26 @@ Hello! <img align="left" src="https://webapp4.asu.edu/photo-ws/directory_photo/s
   **Shail Dave**, Mahesh Balasubramanian, Aviral Shrivastava <br/>
   in *Proceedings of the 55th Annual Design Automation Conference (DAC)*, 2018
 
-+ [SPX64: A Scratchpad Memory for General-Purpose Microprocessors](papers/Singh2021TACO.pdf) <br/>
-  Abhishek Singh, **Shail Dave**, PanteA Zardoshti, Robert Brotzman, Chao Zhang, Xiaochen Guo, Aviral Shrivastava, Gang Tan, Michael Spear <br/>
-  in *ACM Transactions on Architecture and Code Optimization (TACO)*, volume 18, no. 1, 2021
-
-+ [dMazeRunner: Optimizing Convolutions and GEMMs on Dataflow Accelerators](papers/Dave2020ICASSP.pdf) <br/>
-  **Shail Dave**, Aviral Shrivastava, Youngbin Kim, Sasikanth Avancha, Kyoungwoo Lee <br/>
-  in *Proceedings of the 45th International Conference on Acoustics, Speech, and Signal Processing (ICASSP)*, 2020
++ [Special Session: Towards an Agile Design Methodology for Efficient, Reliable, and Secure ML Systems](papers/Dave2022VTS.pdf) <br/>
+  **Shail Dave**, Alberto Marchisio, Muhammad Abdullah Hanif, Amira Guesmi, Aviral Shrivastava, Ihsen Alouani, Muhammad Shafique
+  in *Proceedings of the 40th Annual IEEE VLSI Test Symposium (VTS)*, 2022
   
 + [CCF: CGRA Compilation and Simulation Framework](papers/Dave2018DATEDEMO.pdf) <br/>
   **Shail Dave**, Aviral Shrivastava <br/>
   in *University Booth at the 21st International Conference on Design Automation and Test in Europe (DATE)*, 2018
+
++ [SPX64: A Scratchpad Memory for General-Purpose Microprocessors](papers/Singh2021TACO.pdf) <br/>
+  Abhishek Singh, **Shail Dave**, PanteA Zardoshti, Robert Brotzman, Chao Zhang, Xiaochen Guo, Aviral Shrivastava, Gang Tan, Michael Spear <br/>
+  in *ACM Transactions on Architecture and Code Optimization (TACO)*, volume 18, no. 1, 2021
+
++ [Learning-Oriented Reliability Improvement of Computing Systems From Transistor to Application Level](papers/Ranjbar2023DATE.pdf)
+  Behnaz Ranjbar, Florian Klemme, Paul R. Genssler, Hussam Amrouch, Jinhyo Jung, **Shail Dave**, Hwisoo So, Kyongwoo Lee, Aviral Shrivastava, Ji-Yung Lin, Pieter Weckx, Subrat Mishra, Francky Catthoor, Dwaipayan Biswas, Akash Kumar 
+  in Proceedings of the 26st International Conference on Design Automation and Test in Europe (DATE), 2023
+  (author groups listed topic/affiliation-wise)
+
++ [dMazeRunner: Optimizing Convolutions and GEMMs on Dataflow Accelerators](papers/Dave2020ICASSP.pdf) <br/>
+  **Shail Dave**, Aviral Shrivastava, Youngbin Kim, Sasikanth Avancha, Kyoungwoo Lee <br/>
+  in *Proceedings of the 45th International Conference on Acoustics, Speech, and Signal Processing (ICASSP)*, 2020 
   
 + [LASER: A Hardware/Software Approach to Accelerate Complicated Loops on CGRAs](papers/Balasubramanian2018DATE.pdf) <br/>
   Mahesh Balasubramanian, **Shail Dave**, Aviral Shrivastava, Reiley Jeyapaul <br/>
