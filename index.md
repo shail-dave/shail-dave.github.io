@@ -25,7 +25,7 @@ Hello! <img align="left" src="https://webapp4.asu.edu/photo-ws/directory_photo/s
   in *Proceedings of the 55th Annual Design Automation Conference (DAC)*, 2018
 
 + [Special Session: Towards an Agile Design Methodology for Efficient, Reliable, and Secure ML Systems](papers/Dave2022VTS.pdf) <br/>
-  **Shail Dave**, Alberto Marchisio, Muhammad Abdullah Hanif, Amira Guesmi, Aviral Shrivastava, Ihsen Alouani, Muhammad Shafique
+  **Shail Dave**, Alberto Marchisio, Muhammad Abdullah Hanif, Amira Guesmi, Aviral Shrivastava, Ihsen Alouani, Muhammad Shafique <br/>
   in *Proceedings of the 40th Annual IEEE VLSI Test Symposium (VTS)*, 2022
   
 + [CCF: CGRA Compilation and Simulation Framework](papers/Dave2018DATEDEMO.pdf) <br/>
@@ -36,9 +36,9 @@ Hello! <img align="left" src="https://webapp4.asu.edu/photo-ws/directory_photo/s
   Abhishek Singh, **Shail Dave**, PanteA Zardoshti, Robert Brotzman, Chao Zhang, Xiaochen Guo, Aviral Shrivastava, Gang Tan, Michael Spear <br/>
   in *ACM Transactions on Architecture and Code Optimization (TACO)*, volume 18, no. 1, 2021
 
-+ [Learning-Oriented Reliability Improvement of Computing Systems From Transistor to Application Level](papers/Ranjbar2023DATE.pdf)
-  Behnaz Ranjbar, Florian Klemme, Paul R. Genssler, Hussam Amrouch, Jinhyo Jung, **Shail Dave**, Hwisoo So, Kyongwoo Lee, Aviral Shrivastava, Ji-Yung Lin, Pieter Weckx, Subrat Mishra, Francky Catthoor, Dwaipayan Biswas, Akash Kumar 
-  in Proceedings of the 26st International Conference on Design Automation and Test in Europe (DATE), 2023
++ [Learning-Oriented Reliability Improvement of Computing Systems From Transistor to Application Level](papers/Ranjbar2023DATE.pdf) <br/>
+  Behnaz Ranjbar, Florian Klemme, Paul R. Genssler, Hussam Amrouch, Jinhyo Jung, **Shail Dave**, Hwisoo So, Kyongwoo Lee, Aviral Shrivastava, Ji-Yung Lin, Pieter Weckx, Subrat Mishra, Francky Catthoor, Dwaipayan Biswas, Akash Kumar <br/>
+  in Proceedings of the 26st International Conference on Design Automation and Test in Europe (DATE), 2023 <br/>
   (author groups listed topic/affiliation-wise)
 
 + [dMazeRunner: Optimizing Convolutions and GEMMs on Dataflow Accelerators](papers/Dave2020ICASSP.pdf) <br/>
