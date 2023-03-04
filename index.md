@@ -38,7 +38,7 @@ Hello! <img align="left" src="https://webapp4.asu.edu/photo-ws/directory_photo/s
 
 + [Learning-Oriented Reliability Improvement of Computing Systems From Transistor to Application Level](papers/Ranjbar2023DATE.pdf) <br/>
   Behnaz Ranjbar, Florian Klemme, Paul R. Genssler, Hussam Amrouch, Jinhyo Jung, **Shail Dave**, Hwisoo So, Kyongwoo Lee, Aviral Shrivastava, Ji-Yung Lin, Pieter Weckx, Subrat Mishra, Francky Catthoor, Dwaipayan Biswas, Akash Kumar <br/>
-  in Proceedings of the 26st International Conference on Design Automation and Test in Europe (DATE), 2023 <br/>
+  in Proceedings of the 26th International Conference on Design Automation and Test in Europe (DATE), 2023 <br/>
   (author groups listed topic/affiliation-wise)
 
 + [dMazeRunner: Optimizing Convolutions and GEMMs on Dataflow Accelerators](papers/Dave2020ICASSP.pdf) <br/>
